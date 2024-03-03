@@ -30,7 +30,6 @@
   <img alt="Next" width="81" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-
 <br />
 
 ### Connect with me:
